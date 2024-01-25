@@ -1,0 +1,1 @@
+Ever wanted to sound like the top military strategist, who is still relevant are thousands of years? Worry not, for this model helps you do that. It uses bidirectional LSTMs with word level tokenizations to generate text in the style of Sun Tzu
